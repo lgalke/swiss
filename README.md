@@ -1,6 +1,4 @@
-# Fork of Swiss Jekyll Theme
-
-**Changelog**
+# Changelog
 
 - Aug 1, 2024: Fixed dotted underline link style, such that it works on Safari browsers.
 
