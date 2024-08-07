@@ -23,7 +23,8 @@ code {
     text-decoration-style: dotted;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration-line: underline;
+      text-decoration-style: solid;
     }
   }
 
